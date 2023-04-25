@@ -3,7 +3,7 @@
 Plugin Name: Advanced Custom Fields: Fluent Forms Field
 Plugin URI: https://github.com/matgargano/Fluent-Forms-ACF-Field
 Description: ACF field to select one or many Fluent Forms
-Version: 0.0.1
+Version: 0.0.2
 Author: @matgargano of @statenweb
 Author URI: http://www.statenweb.com
 License: MIT
