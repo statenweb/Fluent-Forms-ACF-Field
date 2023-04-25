@@ -1,6 +1,6 @@
 {
   "name": "statenweb-plugin/fluent-forms-acf-field",
-  "description": "WordPress plugin `Fluent Forms ACF Fiel`",
+  "description": "WordPress plugin `Fluent Forms ACF Field`",
   "type": "wordpress-plugin",
   "license": "GPLv3"
 }
