@@ -41,6 +41,4 @@ Version: 1.2
 
 Written by Mat Gargano of [StatenWeb](http://statenweb.com)
 
-Storm Consultancy are a web design and development agency based in Staten Island, NY.
-
-If you are looking for a [Staten Island WordPress Developer](http://statenweb.com)
+StatenWeb is a web design and development agency based in Staten Island, NY. If you are looking for a [Staten Island WordPress Developer](http://statenweb.com) reach out.
